@@ -4,7 +4,7 @@
 <project name="poky" remote="yocto" path="poky"/>
 <project name="meta-raspberrypi" remote="yocto" path="meta-raspberrypi"/>
 
-<remote name="openembedded" fetch="git://git.openembedded.org/>
+<remote name="openembedded" fetch="git://git.openembedded.org"/>
 <default revision="thud" remote="openembedded" sync-j="4"/>
 <project name="meta-openembedded" remote="openembedded" path="meta-openembedded"/>
 

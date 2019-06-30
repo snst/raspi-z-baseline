@@ -6,7 +6,7 @@
 <project name="poky" remote="yocto" path="poky" revision="thud"/>
 <project name="meta-raspberrypi" remote="yocto" path="meta-raspberrypi" revision="thud"/>
 <project name="meta-openembedded" remote="openembedded" path="meta-openembedded" revision="thud"/>
-<project name="meta-raspi-zero-cfg" remote="github" path="meta-raspi-zero-cfg" revision="master"/>
+<project name="snst/meta-raspi-zero-cfg" remote="github" path="meta-raspi-zero-cfg" revision="master"/>
 
                                                
 </manifest>

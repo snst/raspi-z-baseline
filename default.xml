@@ -1,0 +1,7 @@
+<manifest>
+<remote name="yocto" fetch="git.yoctoproject.org"/>
+<default revision="thud" remote="yocto" sync-j="4"/>
+<project name="poky" remote="yocto" path="poky"/>
+<project name="meta-raspberrypi" remote="yocto" path="meta-raspberrypi"/>
+</manifest>
+

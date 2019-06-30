@@ -2,9 +2,9 @@
 <remote name="yocto" fetch="git://git.yoctoproject.org"/>
 <remote name="openembedded" fetch="git://git.openembedded.org"/>
 
-<project name="poky" remote="yocto" path="poky" upstream="thud"/>
-<project name="meta-raspberrypi" remote="yocto" path="meta-raspberrypi" upstream="thud"/>
-<project name="meta-openembedded" remote="openembedded" path="meta-openembedded" upstream="thud"/>
+<project name="poky" remote="yocto" path="poky" revision="thud"/>
+<project name="meta-raspberrypi" remote="yocto" path="meta-raspberrypi" revision="thud"/>
+<project name="meta-openembedded" remote="openembedded" path="meta-openembedded" revision="thud"/>
 
                                                
 </manifest>
